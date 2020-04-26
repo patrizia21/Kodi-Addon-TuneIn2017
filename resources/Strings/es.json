@@ -19,7 +19,7 @@
     "Username ueberpruefen": "Revise el usuario",
     "keinen Stream gefunden zu": "No se ha encontrado transmisión para",
     "nicht gefunden": "No se ha encontrado",
-    "Mehr...": "Mas...",
+    "Mehr...": "Más...",
     "neuer Versuch": "Nuevo intento",
     "neues Update beim Start des Plugins anzeigen": "Buscar actualizaciones al inicio",
     "Sprache Plugin": "Idioma del complemento",
@@ -97,6 +97,5 @@
     "Stream": "Trasmisión",
     "Bitte Suchwort(e) eingeben": "Escriba término(s) de búsqueda",
     "Addon Update auf Version": "Actualización del complemento a la versión",
-    "Update erfolgreich - weiter zum aktuellen Addon": "La actualización se ha realizado con éxito - Continuar con el complemento actual",
+    "Update erfolgreich - weiter zum aktuellen Addon": "La actualización se ha realizado con éxito - Continuar con el complemento actual"
 }
-
